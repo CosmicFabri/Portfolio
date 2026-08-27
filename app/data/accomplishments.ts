@@ -10,7 +10,7 @@ import type { Accomplishment } from '~/types'
 export const accomplishments: Accomplishment[] = [
   {
     image: '/accomplishments/placeholder-1.svg',
-    alt: 'Placeholder image for an accomplishment',
+    alt: 'First release of Smiley Vision, jul. 2026',
     description:
       'Spoke at a local dev meetup about building resilient CLI tools with Rust.',
     date: 'Mar 2026',
