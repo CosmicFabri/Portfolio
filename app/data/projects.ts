@@ -17,12 +17,12 @@ import type { Project } from '~/types'
  */
 export const projects: Project[] = [
   {
-    slug: 'stellar-cli',
-    title: 'Stellar CLI',
+    slug: 'smiley-vision',
+    title: 'Smiley Vision',
     summary:
-      'A fast, ergonomic command-line tool for scaffolding and managing microservices.',
-    image: '/projects/placeholder-wide.svg',
-    tags: ['Rust', 'CLI', 'Developer Tools'],
+      'A B2B e-commerce web application for the Smiley Vision company.',
+    image: '/projects/projects-1-smiley-vision-cover.png',
+    tags: ['Web App', 'REST API', 'SaaS'],
     span: 2,
   },
   {
