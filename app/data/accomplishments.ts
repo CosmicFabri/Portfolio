@@ -9,24 +9,24 @@ import type { Accomplishment } from '~/types'
  */
 export const accomplishments: Accomplishment[] = [
   {
-    image: '/accomplishments/placeholder-1.svg',
+    image: '/accomplishments/accomplishment-3-smiley-vision-first-version.jpg',
     alt: 'First release of Smiley Vision, jul. 2026',
     description:
-      'Spoke at a local dev meetup about building resilient CLI tools with Rust.',
-    date: 'Mar 2026',
+      'Deployed the first version of Smiley Vision, ready for real clients to use.',
+    date: 'Jul 2026',
   },
   {
-    image: '/accomplishments/placeholder-2.svg',
-    alt: 'Placeholder image for an accomplishment',
+    image: '/accomplishments/accomplishment-2-odontolabs-test.jpg',
+    alt: 'First release of OdontoLabs for internal testing, apr. 2026',
     description:
-      'Merged my first upstream contribution to an open-source project I use every day.',
-    date: 'Jan 2026',
+      'Deployed the test version of OdontoLabs for the College of Dentistry to use internally.',
+    date: 'Apr 2026',
   },
   {
-    image: '/accomplishments/placeholder-3.svg',
-    alt: 'Placeholder image for an accomplishment',
+    image: '/accomplishments/accomplishment-1-hackmty.jpg',
+    alt: 'Won HackMTY 2026 in the GateGroup Smart Intelligence track, oct. 2025',
     description:
-      'Shipped a side project to production and crossed 1,000 monthly active users.',
-    date: 'Nov 2025',
+      'Won the Smart Intelligence hackathon track with GateGroup, HackMTY 2025.',
+    date: 'Oct 2025',
   },
 ]
