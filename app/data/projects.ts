@@ -26,11 +26,11 @@ export const projects: Project[] = [
     span: 2,
   },
   {
-    slug: 'nebula-notes',
-    title: 'Nebula Notes',
-    summary: 'A local-first, end-to-end encrypted note-taking app.',
-    image: '/projects/placeholder-square.svg',
-    tags: ['TypeScript', 'Tauri', 'CRDT'],
+    slug: 'odontolabs',
+    title: 'OdontoLabs',
+    summary: 'A management system for school operations and dentistry-related treatments.',
+    image: '/projects/projects-2-odontolabs-preview.png',
+    tags: ['VueJS', 'State Management', 'SPA'],
     span: 1,
   },
   {
