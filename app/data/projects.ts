@@ -34,11 +34,11 @@ export const projects: Project[] = [
     span: 1,
   },
   {
-    slug: 'orbit-tracker',
-    title: 'Orbit Tracker',
-    summary: 'A dashboard that visualizes satellite passes in real time.',
-    image: '/projects/placeholder-square.svg',
-    tags: ['Vue', 'WebGL', 'APIs'],
+    slug: 'requiem',
+    title: 'Requiem',
+    summary: 'A survival FPS game inspired by The Divine Comedy.',
+    image: '/projects/projects-3-requiem-preview.png',
+    tags: ['Godot', 'GDScript', 'FPS Game'],
     span: 1,
   },
 ]
