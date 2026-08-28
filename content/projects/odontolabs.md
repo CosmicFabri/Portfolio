@@ -3,7 +3,7 @@ title: OdontoLabs
 description: A management system for school operations and dentistry-related treatments.
 ---
 
-::article-paragraph{image="/projects/projects-2-odontolabs-screenshot-1.png" side="left" alt="Nebula Notes editor"}
+::article-paragraph{image="/projects/projects-2-odontolabs-screenshot-2.png" side="left" alt="Nebula Notes editor"}
 OdontoLabs is a school management system designed specifically for the College of Dentistry of the Autonomous University of Campeche (UAC) — it provides school management and clinical treatments operations.
 ::
 
@@ -16,6 +16,9 @@ The College of Dentistry has been facing two important problems regarding gradin
 
 ::article-paragraph
 Due to these problems, a software system was required so the college always preserves data integrity and reduces the use of paper. OdontoLabs cleanly solves these problems, and it brings a better, quicker way for students and faculty to manage assignments and school-related operations.
+::
+
+::article-image{src="/projects/projects-2-odontolabs-screenshot-1.png" caption="The treatments statistics view for the administrator of the system."}
 ::
 
 ## Things I’ve learned
